@@ -1,0 +1,21 @@
+.main {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  max-width: 1200px;
+}
+.enter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 137px;
+  height: 52px;
+  border-radius: 5px;
+  gap: 15px;
+  background: #8d5cf6;
+}
+.icon {
+  align-items: center;
+  display: flex;
+  margin-right: 305px;
+}

@@ -1,0 +1,28 @@
+.information {
+  width: 1322px;
+  height: 1001px;
+  gap: 35px;
+  background: #2a7cc7;
+}
+.block {
+  width: 193px;
+  height: 52px;
+  padding: 15px, 40px, 15px, 40px;
+  border-radius: 5px;
+  gap: 10px;
+  background: #2a7cc7;
+}
+.block2 {
+  width: 162px;
+  height: 52px;
+  padding: 15px, 40px, 15px, 40px;
+  border-radius: 5px;
+  border: 1px;
+  gap: 10px;
+  background: #ececec;
+  border: 1px solid #ececec;
+}
+.placing {
+  display: flex;
+  justify-content: space-between;
+}
